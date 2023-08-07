@@ -1,0 +1,24 @@
+.counter-container {
+    padding: 20px;
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.counter-action-container {
+    display: flex;
+    width: 450px;
+    height: 60px;
+    background: peru;
+    border: 1px solid #000;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff
+}
+
+.btn {
+    width: 80px;
+    height: 40px;
+    box-sizing: border-box;
+    cursor: pointer;
+}

@@ -1,0 +1,32 @@
+.topNav {
+  background-color: #333;
+  overflow: hidden;
+  width: 99vw;
+  display: flex;
+  color: #fff;
+  height: 40px;
+  padding: 10px;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 1.5rem;
+  text-decoration: underline;
+}
+
+.MenuOptions {
+  display: flex;
+  justify-content: space-between;
+  width: 15vw;
+}
+.MenuOptions span {
+  cursor: pointer;
+}
+
+.authenticationOptions {
+  display: flex;
+  justify-content: space-between;
+  width: 8vw;
+}
+
+.authenticationOptions span {
+  cursor: pointer;
+}
